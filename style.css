@@ -1,0 +1,15 @@
+/* Whole document: */
+body{
+  font-family: Georgia;
+  font-size: 14pt;
+}
+/* Headers */
+h1,h2,h3,h4,h5,h6 {
+  font-size: 32pt; }
+   h1  {font-size: 28pt;}
+   h2  {font-size: 24pt;} 
+   h3  {font-size: 18pt;}
+   h4  {font-size: 15pt;} 
+   h5  {font-size: 12pt;}
+   h6  {font-size: 10pt;} 
+}
